@@ -10,7 +10,7 @@ apt-get install umbrello
 Herramienta de desarrollo
 
 ```url
-[dpkg -i code_*_amd64.deb](https://code.visualstudio.com/)
+(https://code.visualstudio.com/)
 ```
 Instalación en Linux
 ```linux
