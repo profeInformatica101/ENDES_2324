@@ -14,7 +14,7 @@ int main() {
             printf("Por favor, introduzca un número positivo para la altura:\n");
              scanf("%lf", &altura);
        }
-    area = base * altura
-    printf("El área del rectángulo es: %lf\n", area
+    area = base * altura;
+    printf("El área del rectángulo es: %lf\n", area);
      return 0;
 }
