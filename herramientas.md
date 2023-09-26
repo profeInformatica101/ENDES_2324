@@ -8,9 +8,8 @@ apt-get install umbrello
 
 # VISUAL STUDIO CODE
 Herramienta de desarrollo
-´´´url
+```url
 https://code.visualstudio.com/
-
 ´´´
 Instalación en Linux
 ```linux
