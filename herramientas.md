@@ -22,3 +22,7 @@ dpkg -i code_*_amd64.deb
 ```linux
 apt-get install thonny
 ```
+# BEYOND COMPARE
+```url
+[Beyond compare](https://www.scootersoftware.com/download)
+```
