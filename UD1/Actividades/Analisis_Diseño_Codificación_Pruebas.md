@@ -14,16 +14,10 @@ la entrega final se realizará mediante un documento PDF subido a la plataforma 
 
 Por cada ejercicio, se deberá realizar:
 
-```
-    Análisis: Define las entradas y salidas del problema y proporciona una breve explicación de cómo se abordará.
-
-    Diseño: Desarrolla un diagrama de flujo que ilustre el algoritmo para resolver el problema.
-
-    Codificación: Implementa el código en Java, siguiendo el ejemplo proporcionado en GitHub. (Nota: Incluir enlace directo al ejemplo)
-
-    Pruebas: Realiza pruebas con distintos valores para comprobar que la implementación es correcta y documenta los resultados.
-```
-
+* *Análisis*: Define las entradas y salidas del problema y proporciona una breve explicación de cómo se abordará.
+* *Diseño*: Desarrolla un diagrama de flujo que ilustre el algoritmo para resolver el problema.
+* *Codificación*: Implementa el código en Java, siguiendo el ejemplo proporcionado en GitHub. (Nota: Incluir enlace directo al ejemplo)
+* *Pruebas*: Realiza pruebas con distintos valores para comprobar que la implementación es correcta y documenta los resultados.
 
 ## Ejercicios
 ### Estructura de Control Secuencial
