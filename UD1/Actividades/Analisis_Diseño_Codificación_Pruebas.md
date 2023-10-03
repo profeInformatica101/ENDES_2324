@@ -23,10 +23,8 @@ Por cada ejercicio, se deberá realizar:
 * **Codificación**: Implementa el código en Java, siguiendo el ejemplo proporcionado en GitHub. (Nota: Incluir enlace directo al ejemplo)
 * **Pruebas**: Realiza pruebas con distintos valores para comprobar que la implementación es correcta y documenta los resultados.
 
-```
-[Ejemplo ejercico 1](https://docs.google.com/document/d/1WH1UJpFBUvXPmXzDhat8AGMacdm8okwTcRNuDiiIU8s/edit?usp=sharing)
+[Ejemplo solución ejercicio 1](https://docs.google.com/document/d/1WH1UJpFBUvXPmXzDhat8AGMacdm8okwTcRNuDiiIU8s/edit?usp=sharing)
 
-```
 
 ## Ejercicios
 ### Estructura de Control Secuencial
