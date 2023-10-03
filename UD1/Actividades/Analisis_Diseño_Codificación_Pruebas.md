@@ -16,7 +16,10 @@ Por cada ejercicio, se deberá realizar:
 
 * **Análisis**: Define las entradas y salidas del problema y proporciona una breve explicación de cómo se abordará.
 * **Diseño**: Desarrolla un diagrama de flujo que ilustre el algoritmo para resolver el problema.
-    * Para el *diagrama de flujo* se podra usar la herramienta on-line: Draw.io
+    * Para el *diagrama de flujo* se usara StarUML 
+      ``` - Descargar: https://staruml.io/download/
+          - Para crear el modelo (Selecionar "Model-->Add Diagram -->FlowChartDiagram")
+      ````
 * **Codificación**: Implementa el código en Java, siguiendo el ejemplo proporcionado en GitHub. (Nota: Incluir enlace directo al ejemplo)
 * **Pruebas**: Realiza pruebas con distintos valores para comprobar que la implementación es correcta y documenta los resultados.
 
