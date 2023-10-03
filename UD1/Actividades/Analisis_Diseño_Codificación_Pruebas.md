@@ -1,4 +1,4 @@
-# Actividad: Desarrollo de Software a Través de Etapas
+# Actividad: Desarrollo de Software a través de distintas Etapas
 
 ## Modalidad de Trabajo: 
 En parejas
