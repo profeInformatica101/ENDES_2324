@@ -6,7 +6,9 @@ En parejas
 ## Metodología de Entrega: 
 Documento PDF a través de Moodle. 
 ```
-Aunque utilizarán Google Docs para la colaboración y desarrollo de la actividad (asegúrense de que ambos miembros y el docente tengan acceso de edición), la entrega final se realizará mediante un documento PDF subido a la plataforma Moodle.
+Aunque utilizarán Google Docs para la colaboración y desarrollo de la actividad
+(asegúrense de que ambos miembros y el docente tengan acceso de edición),
+la entrega final se realizará mediante un documento PDF subido a la plataforma Moodle.
 ```
 ## Procedimiento: 
 
