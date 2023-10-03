@@ -24,7 +24,8 @@ Por cada ejercicio, se deberá realizar:
 * **Pruebas**: Realiza pruebas con distintos valores para comprobar que la implementación es correcta y documenta los resultados.
 
 ```
- (       Ejemplo:  https://docs.google.com/document/d/1WH1UJpFBUvXPmXzDhat8AGMacdm8okwTcRNuDiiIU8s/edit?usp=sharing) 
+[Ejemplo]( https://docs.google.com/document/d/1WH1UJpFBUvXPmXzDhat8AGMacdm8okwTcRNuDiiIU8s/edit?usp=sharing)
+
 
 ```
 
