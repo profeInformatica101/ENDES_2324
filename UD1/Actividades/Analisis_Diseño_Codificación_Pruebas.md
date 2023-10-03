@@ -24,7 +24,7 @@ Por cada ejercicio, se deberá realizar:
 ### Estructura de Control Secuencial
 
 1. Saludo Personalizado: Desarrolla un programa en Java que solicite al usuario su nombre y apellido por separado. A continuación, el programa debe mostrar un mensaje que diga "¡Hola [nombre] [apellido]!".
-2.Cálculo del Tiempo de Viaje: Crea un programa que solicite al usuario la distancia a recorrer (en kilómetros) y la velocidad promedio esperada (en km/h), y luego muestre el tiempo que tomará el viaje.
+2. Cálculo del Tiempo de Viaje: Crea un programa que solicite al usuario la distancia a recorrer (en kilómetros) y la velocidad promedio esperada (en km/h), y luego muestre el tiempo que tomará el viaje.
 
 ### Estructura de Control Selectivas
 
